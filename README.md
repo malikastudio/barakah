@@ -2,10 +2,6 @@
 
 Welcome to the **Barakah Library for Social Good** — an open-source, digitally organized private library focused on collecting, cataloging, and sharing books that foster **social impact**, **communal understanding**, and **personal growth**.
 
-This project is a labor of love for readers, educators, community leaders, and lifelong learners who believe that knowledge is a tool for transformation. Our goal is to make it easier to discover and access books that inspire action, empathy, and equity.
-
----
-
 ## 📚 About the Project
 
 This GitHub repository serves as both a **living catalog** and a **development hub** for a curated digital library. It is organized around themes such as:
@@ -18,7 +14,14 @@ This GitHub repository serves as both a **living catalog** and a **development h
 
 Each book entry is thoughtfully tagged, annotated, and categorized to help users explore connections between topics and deepen their understanding.
 
----
+## 🛠 How to Use This Library
+
+- **Browse curated books** in [`books/books.json`](./books/books.json)
+- **Search by theme or tag** to build your own reading list
+- **Fork the repo** to start a library for your own community or learning space
+- **Contribute new titles** by submitting [Issues](https://github.com/malikastudio/barakah/issues) or [Pull Requests](https://github.com/malikastudio/barakah/pulls)
+- **Use it in classrooms, workshops, or book clubs** as a resource for transformative reading
+- **Build tools** like search engines, web interfaces, or APIs using the open metadata
 
 ## ✨ Key Features
 
@@ -27,8 +30,6 @@ Each book entry is thoughtfully tagged, annotated, and categorized to help users
 - **Contribution Framework** – Clear guidelines for submitting books or creating new collections  
 - **Open & Extensible** – Built to be forked, remixed, and used by community libraries, classrooms, and reading groups
 
----
-
 ## 👥 Who Is It For?
 
 - Readers seeking meaningful, thought-provoking books  
@@ -36,8 +37,6 @@ Each book entry is thoughtfully tagged, annotated, and categorized to help users
 - Activists and organizers looking to build collective knowledge  
 - Developers interested in library tech, knowledge graphs, or digital archives  
 - Anyone who believes books can change the world 🌍
-
----
 
 ## 🤝 How to Contribute
 
@@ -50,8 +49,6 @@ We welcome contributors of all backgrounds! You can:
 
 See our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
----
-
 ## 📄 License
 
 This project uses a dual-license model:
@@ -59,13 +56,9 @@ This project uses a dual-license model:
 - Code and scripts are licensed under the [MIT License](LICENSE-MIT.txt)  
 - Curated content is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CCBY.txt)
 
----
-
 ## 🌐 Join the Community
 
 Follow along, share feedback, or spread the word. Let’s build something beautiful — together.
-
----
 
 ## 🛠 Coming Soon
 
