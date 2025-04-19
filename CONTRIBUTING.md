@@ -7,12 +7,12 @@ Thank you for your interest in contributing to the Barakah Library!
 - 🪴 Add a new book to `books/books.json`
 - 🏷 Help improve or expand our tagging system
 - 🛠 Propose improvements to the metadata schema or library structure
-- 📝 Improve documentation or submit ideas via Issues
+- 📝 Improve documentation or submit ideas via [Issues](https://github.com/malikastudio/barakah/issues)
 
 ## How to Add a Book
 
 1. Fork the repo and create a new branch.
 2. Add your book as a new entry in `books/books.json`, following the format.
-3. Submit a pull request with a short description of your addition.
+3. [Submit a pull request](https://github.com/malikastudio/barakah/pulls) with a short description of your addition.
 
-Need help? Open an issue or ask in Discussions. We're here to grow together!
+Need help? Open an [Issue](https://github.com/malikastudio/barakah/issues) or ask in Discussions. We're here to grow together!
