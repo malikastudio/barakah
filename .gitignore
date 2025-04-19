@@ -1,0 +1,7 @@
+# Node / Python / VSCode standard
+node_modules/
+.env
+__pycache__/
+.DS_Store
+.vscode/
+*.log
