@@ -43,8 +43,8 @@ Each book entry is thoughtfully tagged, annotated, and categorized to help users
 
 We welcome contributors of all backgrounds! You can:
 
-- Suggest a new book by opening an [Issue](https://github.com/YOUR-USERNAME/YOUR-REPO/issues)
-- Add a book by submitting a [Pull Request](https://github.com/YOUR-USERNAME/YOUR-REPO/pulls)
+- Suggest a new book by opening an [Issue](https://github.com/malikastudio/barakah/issues)
+- Add a book by submitting a [Pull Request](https://github.com/malikastudio/barakah/pulls)
 - Help categorize or tag existing entries
 - Improve the structure, UX, or metadata schema
 
