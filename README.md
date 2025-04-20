@@ -54,7 +54,7 @@ See our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 This project uses a dual-license model:
 
 - Code and scripts are licensed under the [MIT License](LICENSE-MIT.txt)  
-- Curated content is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)]
+- Curated content is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## 🌐 Join the Community
 
